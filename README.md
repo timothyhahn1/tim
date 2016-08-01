@@ -1,3 +1,3 @@
 # tim
-tim readme modified in svn
+tim readme modified in git
 jbpm
